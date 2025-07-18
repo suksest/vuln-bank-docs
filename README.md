@@ -119,6 +119,9 @@ Archives *zap-report.json*.
 
 Counts alerts: DAST_COUNT = length(.alerts) in zap-report.json
 
+Example Result:
+![OWASP ZAP Scan Result](images/zap.png)
+
 ### Post Action: Discord Notification
 
 > Purpose: Report security findings to Discord.
